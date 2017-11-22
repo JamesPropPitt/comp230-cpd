@@ -1,10 +1,16 @@
 # Weekly Reports
-For my own benefit I have added a unique counter this term to track my levels of anxiety throughout the weeks
+For my own benefit I have added a unique counter this term to track my levels of anxiety throughout the weeks.
+
 0 = Anxiety free!
+
 10 = Unable to leave the house
-Henceforth 
+
+#### Henceforth 
+
 Anxiety Score = AS
+
 Anxiety Attack Counter = AAC
+
 ## Week One
 ### AS: 4
 ### AAC: 0
