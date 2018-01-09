@@ -1,3 +1,28 @@
+# Summary
+There are a few obstacles that I must personally overcome before I think I am ready to work in the gaming industry.
+
+I am now half way through the entire course and am really very surprised I have made it this far, not proud, just surprised.
+I have learnt basic C++, Python and how to use Blueprints in Unreal Engine 4. I have become more social and learned social situation
+cues and what they mean.
+Having acknowledged what I have achieved, I believe it is now important to look forward and face the challenges which are ahead of me.
+
+#### Anxiety 
+First and foremost on this list, and first and foremost theme of my life. I don't intend to completely eradicate this emotion, but my goal is to learn better coping mechanisms so that I don't have to take a fortnight out of my academic year to calm down. Alternatively,
+if I am unable to find a manageable solution to dealing with anxiety by the end of this academic year then I intend to pursue medication
+and find the right drugs to keep me stable. I wish to be able to get the amount of anxiety attacks I have per week down below 5, given that I have managed this before I think this is a reasonable goal.
+
+#### Confidence to seek help
+This year I have been particularly bad with requesting help when I didn't understand something so far, this has lead to deadlines being pushed further back and the lecturers not knowing which stage I am at (nor I). I plan, next term, to immediately talk to the lecturer after the session and enquire as to what they meant about a specific area of a topic. Hopefully I will be able to see if I have improved in this department by the amount of confusion I have towards different modules. 
+
+#### Java
+Going into the new term I have absolutely no clue about the JAVA programming language, which is bad as the Artificial Intelligence module uses the Java language and requires people to have a basic understanding of it. Due to this, I intend to have a better understanding of Java by the end of the next term through learning from the course and self-teaching from tutorials. 
+
+#### Team Communication
+Although towards the end of the previous semester my communication with my team has improved to a point which they state is acceptable, I wish to continue to not only meet that level of expectation but exceed it and put forward suggestions and ideas for the team instead of just giving my opinion on previously suggested ideas. I aim to suggest something to my team that influences something which in the end gets implemented into the game. 
+
+#### Willpower
+I have a tendency, as most people do, to play video games rather than get work done. I have gotten into the habit of becoming very good at procrastination techniques, so I sort out a time to get work done which gives me time to play games now but when the planned time comes I just move it back to another time, repeat. To combat this, I have decided to flip work and games around. Instead of negotiating when I do work, I will now negotiate when I play games. I hope this changes my mindset towards working and helps eliminate my tendency to simply keep pushing work back until it's too late.
+
 # Weekly Reports
 For my own benefit I have added a unique counter this term to track my levels of anxiety throughout the weeks.
 
@@ -55,15 +80,22 @@ At this point I sleep for maybe 8 hours a day, 4 hours are taken up preparing fo
 Deadline week, I managed to meet all the deadlines on time with hours or days to spare. Only small heart attack I had was when I deleted the submission for COMP220 maths lib to upload the latest repo iteration. However, because my internet at home is astronomically slow this meant I didn't upload the newer iteration to the queue in time. I messaged Michael about this and he replied fairly quickly and said that I had submitted something so I need not panic. Over the past few weeks my anxiety has been getting worse and worse and it's getting to the state of being quite problematic in terms of academic life. I have applied for additional accessibility support and counselling from my GP back home, I don't think the anxiety is course-related. 
 
 ## Week Nine
+### AS: 9-10
+### AAC: Lost count
+I was not in this week due to high amounts of anxiety.
 
 ## Week Ten
+### AS: 10
+### AAC: Lost count
+I was not in this week due to high amounts of anxiety.
 
 ## Week Eleven
+### AS: 7-8
+### AAC: 5
+I came back from a small hiatus this week and tried to catch up as much as I could to the best of my ability, I spoke with Al about getting an adjusted deadline and Brian about how poorly my progress in his module was going. I'm really struggling with the course this year but I'm determined to see it through. Meeting back up with my team for the year long game project went well, they were very understanding and appreciated that I managed to keep communication lines open as much as I did. I am hoping to have Al's work done by the 15th December, although the anxiety has not gone yet so I'm struggling to focus on work.
 
 ## Week Twelve
-
-## Week Thirteen
-
-## Week Fourteen
-
-## Week Fifteen
+### AS: 8
+### AAC: 7
+Last week for all the deadlines and I'm terrified because I haven't managed to complete the VR/AR project for COMP210, for which I am very disappointed in myself. Even though I have got an adjusted deadline for the 8th January for it, I still had my own personal goal to get it done by this week. I found it hard to concentrate on work, social events and even just leaving the house, I am receiving support and hope this situation is dealt with over the christmas break.
+The work I did get done this week was with the BA team helping out with minor bug fixes and adding small features into the game such as a death screen, ragdoll physics and adjusting the hitbox collision slightly.
